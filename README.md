@@ -16,6 +16,8 @@
 
 > Github bot to resolve the issues and PR of Macaca
 
+Bot: https://github.com/macaca-bot
+
 ```bash
 $ npm i macaca-bot -g
 $ GITHUB_TOKEN=xxx SECRET_TOKEN=xxx macaca-bot

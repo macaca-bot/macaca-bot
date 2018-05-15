@@ -1,6 +1,6 @@
 {
   "name": "macaca-bot",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Github bot to resolve the issues and PR of Macaca",
   "keywords": [
     "macaca",

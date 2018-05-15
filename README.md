@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="//macacajs.github.io">
+    <img
+      alt="Macaca"
+      src="https://macacajs.github.io/macaca-logo/svg/monkey.svg"
+      width="200"
+    />
+  </a>
+</p>
+
+---
+
 # macaca-bot
 
 [![NPM version][npm-image]][npm-url]
